@@ -1,0 +1,4 @@
+data_path:
+  train_data: D:\Deployment\Project\data\train\article3.txt
+  test_data:  D:\Deployment\Project\data\test\article3.txt
+sentence_num: 3

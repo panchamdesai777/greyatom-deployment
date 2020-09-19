@@ -1,0 +1,15 @@
+Document summarisation
+	- preprocessor.py
+		Class ProcessDoc
+			fucntions
+			- special char
+			- token
+			- stopword removal
+	- summarizer.py
+		Class SummarizeDoc
+			fucntions
+			- splitter
+			- firstSentExtractor
+			- findNumWords
+			- findTop3Sent
+			- sentenceCombiner

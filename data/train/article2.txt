@@ -1,0 +1,197 @@
+An estimated 19% of SARS-CoV-2 infections in Hong Kong seeded 80% of the local transmission of the virus from one person to another, according to an analysis of the virus’s early spread. The analysis also found that viral spread in social settings caused more infections than spread within family households.
+
+In an examination of more than 1,000 coronavirus infections in Hong Kong from late January to late April, Peng Wu at the University of Hong Kong and her colleagues found evidence of multiple ‘superspreading’ events, in which one infected person passed the virus to at least six others (D. C. Adam et al. Nature Med. https://doi.org/d9c4; 2020). Musicians who performed at four Hong Kong bars are thought to have triggered the biggest cluster, which led to 106 cases. Another 19 cases were linked to a temple; one monk there had no symptoms but was found to be infected.
+
+Nearly 70% of the cases did not transmit to anyone, the team found. The analysis also showed that more downstream cases were linked to spread in social settings such as weddings and restaurants than to household spread.
+
+Blood plasma is prepared for delivery at a newly opened plasma donor centre in Twickenham, southwest London on June 11, 2020.
+Blood plasma donated by people who have recovered from COVID-19 contains antibodies that could help to treat the disease.Credit: Ben Stansall/AFP via Getty
+
+17 September — Immunity to common-cold coronaviruses is short-lived
+
+Natural immunity to coronaviruses that cause the common cold might last for only a few months after infection, according to a study that monitored volunteers’ antibody levels — some for more than three decades.
+
+Previous studies have suggested that immune responses to common-cold coronaviruses protect against reinfection for only a matter of months, although symptoms are often reduced during the second infection. Lia van der Hoek at the University of Amsterdam and her colleagues looked for coronavirus antibodies in blood samples taken every few months from ten individuals, starting in the mid-1980s (A. W. D. Edridge et al. Nature Med. https://doi.org/ghbm79; 2020).
+
+
+The lasting misery of coronavirus long-haulers
+The team used a rise in antibody levels as an indicator of infection. Infections with coronaviruses were least common from June to September, a seasonal pattern that the authors suggest SARS-CoV-2 might follow. The authors found reinfections occurring as early as 6 months after the first infection, and most often at 12 months.
+
+15 September — A groundbreaking guide to making ‘cocktails’ to treat COVID-19
+
+A new method pinpoints every mutation that a crucial SARS-CoV-2 protein could use to evade an attacking antibody. The results could inform the development of antibody treatments for COVID-19.
+
+The immune system produces molecules called antibodies to fend off invaders. Antibodies that bind to an important region of the SARS-CoV-2 spike protein can inactivate the viral particles, making such antibodies attractive as therapies. But over time, viruses can accumulate mutations — and some can interfere with antibody binding and allow viral particles to ‘escape’ immune forces.
+
+James Crowe at the Vanderbilt University Medical Center in Nashville, Tennessee, Jesse Bloom at the Fred Hutchinson Cancer Center in Seattle, Washington, and their colleagues created the most detailed map so far of the spike-protein mutations that could prevent binding by ten human antibodies (A. J. Greaney et al. Preprint at bioRxiv https://doi.org/d8zm; 2020). The team then used that information to design three antibody cocktails, each consisting of two antibodies.
+
+In laboratory tests of the cocktails against SARS-CoV-2, the virus did not develop mutations that could escape antibody binding. The findings have not yet been peer reviewed.
+
+A member of staff receives a child in a day care centre at Moscow's secondary school No 1532.
+A staffer at a childcare centre in Moscow wears mask and gloves to prevent spread of the new coronavirus.Credit: Mikhail Japaridze/TASS via Getty
+
+14 September — Kids in US childcare centres spread coronavirus to families
+
+Twelve children infected with the new coronavirus at childcare centres passed the virus on to at least another twelve people between them, according to an analysis of outbreaks in Utah. Among the resulting cases was a woman who had to be hospitalized after presumptive infection by her child.
+
+Cuc Tran at the US Centers for Disease Control and Prevention in Atlanta, Georgia, and her colleagues investigated outbreaks at three childcare centres in Salt Lake County (Morb. Mortal. Wkly Rept. https://www.cdc.gov/mmwr/volumes/69/wr/mm6937e3.htm?s_cid=mm6937e3_w; 2020). At all three centres, the first known case was a staff member. Two had gone to work even though a person in their household had shown COVID-19 symptoms.
+
+All 12 infected children, whose ages ranged from 8 months to 10 years, had either mild or no symptoms. Among the children’s close contacts who tested positive were six mothers and three siblings; one eight-month-old baby infected both parents. Not all close contacts were tested, meaning that infections associated with the childcare centres might have been missed, the authors say.
+
+Passengers wear protective face masks as they alight a Metro train in Madrid.
+Mask-wearing passengers alight from a Metro train in Madrid.Credit: Angel Navarrete/Bloomberg via Getty
+
+11 September — Nearly half of coronavirus transmission is from people not yet feeling ill
+
+Some three-quarters of incidents of SARS-CoV-2 transmission occur in the few days before or after the onset of symptoms in the person who passes on the virus.
+
+Luca Ferretti at the University of Oxford, UK, and colleagues studied 191 cases of SARS-CoV-2 transmission from an infected person to an uninfected person. The team analysed the timing of the transmitting person’s initial infection and onset of symptoms, and when that person spread the infection to someone else (L. Ferretti et al. Preprint at medRxiv https://doi.org/d8ms; 2020).
+
+They found that roughly 40% of transmission events occurred before the onset of symptoms, and around 35% took place on the day that symptoms appeared or on the following day.
+
+The researchers say their findings underscore the importance of mass testing, contact tracing and physical distancing to prevent transmission from pre-symptomatic people, as well as self-isolation for at least two days at the first sign of symptoms such as cough, fever, fatigue and loss of smell — however mild.
+
+Coloured transmission electron micrograph (TEM) of a cell infected with SARS-CoV-2 coronavirus particles (blue and orange).
+Particles of SARS-CoV-2 (blue and orange; artificially coloured) infect a cell.Credit: Cynthia S. Goldsmith and Azaibi Tamin/CDC/SPL
+
+10 September — Surprise! A host of tantalizing new SARS-CoV-2 proteins is unveiled
+
+Researchers have discovered nearly two dozen previously unknown proteins encoded by SARS-CoV-2 — and their role during infection is mostly mysterious.
+
+Until now, SARS-CoV-2’s RNA genome was known to hold the instructions for making 29 proteins, such as the spike protein that helps viral particles to infect cells, and a variety of viral proteins that become active inside cells. But scientists were uncertain whether the virus had more than those 29.
+
+To identify further proteins, Noam Stern-Ginossar at the Weizmann Institute of Science in Rehovot, Israel, and her colleagues sequenced SARS-CoV-2 RNA bound to protein-making machines called ribosomes inside infected cells (Y. Finkel et al. Nature https://doi.org/d8pb; 2020). This scan turned up 23 previously unknown proteins, including some that are entirely new and others that are shortened or extended versions of known proteins.
+
+Some of the newfound proteins might control production of known viral molecules, but the role of many is unknown.
+
+
+Progress report on the coronavirus pandemic
+9 September — The immune-cell traits that could predict severe COVID-19
+
+Immune cells called neutrophils are more likely to be primed for action in people who will eventually develop severe COVID-19 than in those who are will go on to become only mildly ill, according to a machine-learning analysis of data from 3,300 people. If the results can be reproduced, they could aid early identification of the people most likely to become critically ill.
+
+Neutrophils comprise an important part of the body’s rapid response to infection, but can also damage uninfected tissue. Hyung Chun of Yale University in New Haven, Connecticut, and his colleagues used machine learning to analyse proteins in blood plasma taken from people hospitalized with COVID-19 (M. L. Meizlish et al. Preprint at medRxiv https://doi.org/d8hm; 2020).
+
+Several immune proteins that are associated with neutrophils were found at higher levels in the plasma of people who later became critically ill than in those whose illness did not become severe. A subsequent analysis of health records from about 3,300 people showed that high neutrophil counts were associated with increased COVID-19 mortality. The findings have not yet been peer reviewed.
+
+A child infected with COVID-19 is comforted by a medical personnel at a hospital in Romania.
+A child with COVID-19 in a hospital in Timisoara, Romania.Credit: Daniel Mihailescu/AFP/Getty
+
+8 September — Kids ravaged by COVID-19 show unique immune profile
+
+Most children infected with the new coronavirus show few signs of illness, if any. But a few children are struck by a severe form of COVID-19 that can cause multiple organ failure and even death. Now, scientists have begun to tease out the biology of this rare and devastating condition, called multisystem inflammatory syndrome in children, or MIS-C.
+
+Doctors have diagnosed hundreds of cases of MIS-C, which shares some similarities with the childhood illness Kawasaki’s disease. To understand MIS-C’s biological profile, Petter Brodin at the Karolinska Institute in Stockholm and his colleagues looked at 13 children with MIS-C, 28 children with Kawasaki’s disease and 41with mild COVID-19 (C. R. Consiglio et al. Cell https://doi.org/d8fh; 2020). The researchers found that compared with children with Kawasaki’s disease, those with MIS-C have lower levels of an immune chemical called IL-17A, which has been implicated in inflammation and autoimmune disorders.
+
+Unlike all the other children studied, children with MIS-C had no antibodies to two coronaviruses that cause the common cold. This deficit might be implicated in the origins of their condition, the authors say.
+
+Iranian medical personnel wearing a protective suit takes care of an elderly woman infected with covid.
+A woman receives care in the COVID-19 ward of a Tehran hospital.Credit: Morteza Nikoubazl/NurPhoto/Getty
+
+4 September — Powerful new evidence links steroid treatment to lower deaths
+
+People severely ill with COVID-19 are less likely to die if they are given drugs called corticosteroids than people who are not, according to an analysis of hospital patients on five continents.
+
+Earlier findings showed that the steroid dexamethasone cut deaths in people with COVID-19 on ventilators. To examine the effects of steroids in general, Jonathan Sterne at the University of Bristol, UK, and his colleagues did a meta-analysis that pooled data from seven clinical trials; each of the seven studied the use of steroids in people who were critically ill with COVID-19 (REACT Working Group J. Am. Med. Assoc. https://doi.org/d7z8; 2020). The trials included more than 1,700 people across 12 countries.
+
+The team analysed participants’ status 28 days after they were randomly assigned to take either a steroid or a placebo. The risk of death was 32% for those who took a steroid and 40% for those who took a placebo. The authors say that steroids should be part of the standard treatment for people with severe COVID-19.
+
+A man wearing a personal protective equipment suit (PPE) seen disinfecting the mink company.
+A worker disinfects equipment at a mink farm in the Netherlands.Credit: Robin Utrecht/SOPA Images/Getty
+
+3 September — In a first, genomics shows that mink can pass SARS-CoV-2 to humans
+
+An investigation of Dutch mink farms has found the first documented cases of animal-to-human transmission of SARS-CoV-2.
+
+After SARS-CoV-2 outbreaks among farmed mink were first detected in late April, Marion Koopmans at Erasmus Medical Centre in Rotterdam, the Netherlands, and her colleagues used genome sequencing to track outbreaks among animals and workers at 16 mink farms (B. B. O. Munnink et al. Preprint at bioRxiv https://doi.org/d7xn; 2020). The team tested 97 farmworkers and their contacts, and found evidence for SARS-CoV-2 infection in 66 of them.
+
+Genetic analysis suggested that workers had introduced SARS-CoV-2 to mink, which spread the virus back to workers, who might then have passed it on to other people. Outbreaks at mink farms have been detected in Denmark, Spain and the United States, and the researchers say unchecked spread could lead to the animals becoming a reservoir for human infections. The findings have not yet been peer reviewed.
+
+
+An ambulance carries a person with COVID-19 to a hospital in Turin, Italy.
+
+2 September — Antibodies persist for months rather than dwindling
+
+A sweeping survey in Iceland shows that antibodies against the new coronavirus endure in the body for four months after infection, countering earlier evidence suggesting that these important immune molecules quickly disappear.
+
+After a pathogen invades, the immune system produces proteins called antibodies to fight off the intruder. Scientists do not know whether people who generate antibodies against SARS-CoV-2 are protected from reinfection, nor do they know how long those antibodies persist.
+
+Kari Stefansson at deCODE Genetics–Amgen in Reykjavik and his colleagues measured the levels of SARS-CoV-2 antibodies in the blood of roughly 30,000 people, including more than 1,200 who had tested positive for the virus and recovered from COVID-19 (D. F. Gudbjartsson et al. N. Engl. J. Med. https://doi.org/gg9hbt; 2020). Roughly 90% of the recovered people had antibodies against the virus. Their antibody levels rose during the two months after diagnosis, plateaued and then remained at the same level for the duration of the study.
+
+The results also show that the virus has infected only 0.9% of the population, leaving Iceland “vulnerable to a second wave of infection”, the authors warn.
+
+1 September — Even octogenarians develop potent antibodies
+
+As the new coronavirus ripped through several care homes in England, more than 80% of the residents mounted an antibody response to the virus, including 82% of those over the age of 80.
+
+
+How deadly is the coronavirus? Scientists are close to an answer
+During outbreaks at six residential and nursing homes, Shamez Ladhani at Public Health England in London and his colleagues tested more than 500 residents and staff for SARS-CoV-2 infection (S. N. Ladhani et al. Preprint at medRxiv https://doi.org/d7p2; 2020). About five weeks later, the team tested many of the same people for antibodies to SARS-CoV-2 and in particular for neutralizing antibodies, potent molecules that can block the virus from infecting cells
+
+The team found that roughly the same proportion of staff members and care-home residents had formed antibodies to the coronavirus. And neutralizing antibodies had developed in almost 90% of both staff members and residents, including more than 80% of people over the age of 80.
+
+The authors caution that it is not clear whether antibodies against the virus guard against reinfection. The findings have not yet been peer-reviewed.
+
+Colorized SEM of a cell (purple) infected with SARS-CoV-2 virus particles (yellow), isolated from a patient sample.
+A human cell (purple; artificially coloured) infected by viral particles (yellow).Credit: NIAID (CC BY 2.0)
+
+28 August ― COVID-19 testing helps sleep-away summer camps to avoid outbreaks
+
+Rigorous SARS-CoV-2 testing and infection-control measures prevented outbreaks at four overnight camps in Maine that hosted hundreds of children between mid-June and mid-August.
+
+Laura Blaisdell at the Maine Medical Center in Portland and colleagues report that the four sleep-away camps asked all attendees — both campers and staff — to be tested for SARS-CoV-2 before arrival (L. L. Blaisdell et al. Morb. Mortal. Wkly Rep. https://www.cdc.gov/mmwr/volumes/69/wr/mm6935e1.htm?s_cid=mm6935e1_w; 2020). Shortly after arrival, attendees were re-tested for the virus. They were also assigned to small cohorts and spent the first 14 days of camp quarantining with members of their cohort.
+
+Of more than 1,000 attendees, 2 staff members and one camper tested positive at camp and were isolated until they tested negative. The 30 people in the camper’s cohort were quarantined; all tested negative for the virus during quarantine. The authors say that the virus did not spread beyond the three infected attendees.
+
+A child has his temperature checked by a teacher before entering Earlham Primary School, UK.
+A child’s temperature is checked at a primary school in London. Credit: Justin Setterfield/Getty
+
+27 August — Why infected primary-school pupils could be hard to spot
+
+Children aged 6 to 13 are less likely to have symptoms of COVID-19 than those who are younger or older, according to a study of nearly 400 infected people under the age of 21.
+
+Matthew Kelly and his colleagues at Duke University School of Medicine in Durham, North Carolina, studied 382 children and young adults who had had close contact with a person infected with SARS-CoV-2 (J. H. Hurst et al. Preprint at medRxiv http://doi.org/d7cb; 2020). Roughly three-quarters of the study participants tested positive for SARS-CoV-2 either before or during the study.
+
+Only 61% of infected children aged 6 to 13 showed symptoms, compared with 75% of infected study participants under age 6 and 76% of those over age 13. Children aged 6–13 who did feel ill tended to have milder symptoms than older and younger study participants.
+
+Nearly one-third of infected children with an infected sibling did not have close contact with an infected adult, implying that the virus had spread from child to child.
+
+Screening systems at schools and day-care centres should account for age-related differences in symptoms, the authors say. The results have not yet been peer reviewed.
+
+Swab sample is collected from a taxi driver by a medical professional for Covid-19 test, HK, China.
+A medical worker collects a sample for SARS-CoV-2 testing from a taxi driver in Hong Kong.Credit: Anthony Kwan/Getty
+
+26 August — Sex differences in the COVID-19 immune response might drive men’s high risk
+
+Variations in the immune response to SARS-CoV-2 could explain why men are more likely to be hospitalized and die of COVID-19 than are women.
+
+Akiko Iwasaki at Yale University School of Medicine in New Haven, Connecticut, and colleagues studied the immune responses of 98 men and women infected with SARS-CoV-2. All had mild to moderate symptoms (T. Takahashi et al. Nature http://doi.org/d7gb; 2020). The researchers noticed that male participants’ typical immune response to infection differed from that of female participants, which could explain the more severe disease often observed in men. (Nature recognizes that sex and gender are neither binary nor fixed.)
+
+The team found that in general, men had higher levels of certain inflammation-causing proteins known as cytokines and chemokines circulating in their blood than had women. By contrast, women tended to have a stronger response from immune cells known as T cells than did men. In men, an increase in symptom severity over time was associated with a weak T-cell response; in women, it was associated with increased amounts of inflammatory cytokines.
+
+The study proposes taking sex into account when treating people with COVID-19.
+
+25 August ― Reinfection with SARS-CoV-2 is confirmed for the first time with genetic evidence
+
+A man in Hong Kong who was ill with COVID-19 in March was infected by a different variant of the new coronavirus several months later — the first evidence for reinfection that is supported by genetic analysis.
+
+
+Ethical guidelines for COVID-19 tracing apps
+People infected with SARS-CoV-2 mount an immune response, which scientists think probably prevents most reinfections. The durability of this protection is unclear, and a documented case of reinfection would signal that immunity can wane. But previously reported reinfections have been found to relate instead to prolonged shedding of the virus or its genetic material
+
+Kwok-Yung Yuen and his colleagues at the University of Hong Kong identified a 33-year-old man who recovered from COVID-19 in April and tested positive again more than 4 months later, after returning from Spain via the United Kingdom (K. K.-W. To et al. Clin. Infect. Dis. http://doi.org/d7ds; 2020). Genetic sequencing suggested that the second infection was caused by a virus that was genetically distinct from the one responsible for his initial bout.
+
+The man never developed symptoms from the second infection, but his immune system responded by producing a fresh batch of antibodies.
+
+Orange spheroid particles among green-brown tubes.
+SARS-CoV-2 particles (orange; artificially coloured) are visible in a scanning electron microscope image.Credit: NIAID-RML/National Institutes of Health/Science Photo Library
+
+21 August — Vaccines given through the nose could protect against infection
+
+Studies in mice and monkeys show that nasal vaccinations can shield the animals from the new coronavirus — and that such vaccinations might be more effective than an injected form of the same vaccine.
+
+David Curiel and Michael Diamond at Washington University School of Medicine in St Louis, Missouri, and their colleagues created a candidate vaccine encoding the SARS-CoV-2 spike protein, which the virus uses to invade cells (A. O. Hassan et al. Cell http://doi.org/d63k; 2020). The researchers then gave the vaccine to bioengineered mice that had human receptors for the protein.
+
+After being injected with the vaccine and then exposed to SARS-CoV-2, mice showed no infectious virus in their lungs — but their lungs did harbour small amounts of viral RNA. By contrast, mice that had the vaccine inserted up their noses before exposure had no measurable viral RNA in their lungs. This and other evidence suggests that the nasal vaccine entirely warded off infection, the authors say.
+
+Ling Chen at the First Affiliated Hospital of Guangzhou Medical University in China and colleagues developed another vaccine encoding the spike protein (L. Feng et al. Nature Commun. 11, 4207; 2020). The researchers found that both nasal and injected forms of the vaccine protected rhesus macaques (Macaca mulatta) from infection. The authors say that a vaccine that can be given by nose might allow people to vaccinate themselves.
